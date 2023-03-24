@@ -1,10 +1,14 @@
+This is a static website hosted on S3 and distributed with cloud front. 
+
 # Initial Contribution 
 https://github.com/techomoro/ReactMultiPageWebsite
 
 https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
 
-#REf 
 https://react-resume-template.herokuapp.com/#portfolio
+
+### Routing Within Static Website 
+https://www.internetkatta.com/host-angular-2-or-4-or-5-version-in-aws-s3-using-cloudfront
 
 # S3 Deployment 
 https://sammeechward.com/aws-cli-s3-static-website/
