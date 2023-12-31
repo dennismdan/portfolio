@@ -1,10 +1,12 @@
 This is a static website hosted on S3 and distributed with cloud front. 
 
 # Quick Start 
-1. npm install - installs all needed packages 
-2. npm run - runs app during development 
-3. npm build - build app and creates **build** folder 
-4. aws s3 sync build "s3://www.dennismorozov.com/" 
+1. Get latest code from github master 
+2. npm install - installs all needed packages 
+3. npm run - runs app during development 
+4. npm build - build app and creates **build** folder 
+5. aws s3 sync build "s3://www.dennismorozov.com/" 
+
 
 
 
