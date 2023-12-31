@@ -18,7 +18,7 @@ function Projects() {
               <div class="col-md-7">
                 <img
                   class="img-fluid rounded mb-4 mb-lg-0 resume-margine project-image"
-                  src={project.img}
+                  src={IMG(project.img)}
                   alt={project.title}
                 />
               </div>
