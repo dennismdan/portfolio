@@ -9,7 +9,6 @@ This is a static website hosted on S3 and distributed with cloud front.
 
 
 
-
 # Lengthy Resouces 
 ## React Portfolio Initial Contribution 
 A few resources for the react app portofolio
