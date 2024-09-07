@@ -66,11 +66,13 @@
             },
             {
                 "icon":"spark.png",
-                "title":""
+                "title":"", 
+                "alt":"Spark and PySpark"
             },            
             {
                 "icon":"hadoop.png",
-                "title":""
+                "title":"",
+                "alt":"Hadoop Echosystem"
             },            
             {
                 "icon":"hive.png",
@@ -78,7 +80,40 @@
             },         
             {
                 "icon":"mlflow.png",
+                "title":"", 
+                "alt":"MLFlow and Other MLOps"
+            },      
+            {
+                "icon":"openai.png",
                 "title":""
+            },
+            {
+                "icon":"anthropic.png",
+                "title":"Anthropic"
+            },            
+            {
+                "icon":"mistral.png",
+                "title":""
+            },              
+            {
+                "icon":"hf.png",
+                "title":"Hugging Face"
+            },              
+            {
+                "icon":"langchain.png",
+                "title":""
+            },              
+            {
+                "icon":"chroma.png",
+                "title":" Vector DB"
+            },              
+            {
+                "icon":"microsoft_autogen.png",
+                "title":"LLM Agent Orchestration"
+            },              
+            {
+                "icon":"crewai.png",
+                "title":"LLM Agent Orchestration"
             },      
             {
                 "icon":"prometheus.png",
@@ -98,29 +133,29 @@
             }
         ],
         "commercial":[
-            {"position":"Lead Data Scientist: Generative AI and Computer Vision",
+            {"position":"Lead Data Scientist: Generative AI (GenAI) and Computer Vision (CV)",
             "company":"SFL Scientific, A Deloitte Business",
             "dates":"Jan 2022 - Present",
             "address":"Boston, MA 02169",
-            "description":"Led **production**, minimal viable products (**MVP**),  and proof of concept (**POC**) **GenAI** and **CV** client projects. Solved client data access and explainability challenges with retrieval augmented generation (RAG) and LLM Agent based applications. Developed domain specialized GenAI tools for cancer and diagnosis research, medical devices, biotech, and pharma healthcare sectors. Solved complex physics based problems across the industrial sectors with GenAI and CV tools. For example, developed and deployed custom variational autoencoders (VAEs) to generate novel nuclear fuel loading patterns for nuclear power plant burn cycles. Experience with GANs, energy based, diffusion, and normalizing flow generative architectures.",
+            "description":"Led <b>production</b>, minimal viable products (<strong>MVP</strong>), and proof of concept (<b>POC</b>) <b>GenAI</b> and <b>CV</b> client projects. Solved client data access and explainability challenges with <b>retrieval augmented generation (RAG)</b> and <b>LLM Agent</b> based applications. Developed domain specialized <b>GenAI</b> tools for cancer and diagnosis research, medical devices, biotech, and pharma healthcare sectors. Solved complex physics based problems across the industrial sectors with <b>GenAI</b> and <b>CV</b> tools. For example, developed and deployed custom <b>variational autoencoders (VAEs)</b> to generate novel nuclear fuel loading patterns for nuclear power plant burn cycles. Experience with <b>GANs</b>, <b>energy based</b>, <b>diffusion</b>, and <b>normalizing flow</b> generative architectures.",
             "logo":"sfl-logo.png"},
             {"position":"Lead Data Scientist: Natural Language Processing (NLP)",
             "company":"SFL Scientific, A Deloitte Business",
             "dates":"Jan 2022 - Present",
             "address":"Boston, MA 02169",
-            "description":"Led teams of Data Scientists to design and develop models that ingest structured and unstructured data to find anomalies, define topics, generate summarizations, identify product names and personalities, and identify trends over time. Developed retrieval-augmented generation (RAG) applications for healthcare, energy, and consulting industries. ",
+            "description":"Led teams of data scientists to design and develop models that ingest <b>structured</b> and <b>unstructured</b> data to find <b>anomalies</b>, build <b>knowledge graphs</b>, perform <b>topic analysis</b>, generate <b>summaries</b>, extract <b>product names</b> and <b>personalities</b>, and analyze <b>trends</b>. Implemented <b>data monetization</b> initiatives and developed tooling for unstructured data.",
             "logo":"sfl-logo.png"},
             {"position":"Lead Data Scientist: Infrastructure and Compute",
             "company":"SFL Scientific, A Deloitte Business",
             "dates":"Jun 2022 - Present",
             "address":"Boston, MA 02169",
-            "description":"Led internal efforts to establish coding best practices and MLOps workflows and pipelines. Deployed Kubernetes architecture for persistent services with API access. Developed distributed processing pipelines with Dask on NVIDIA DGX cluster. Developed PyTorch and Tensorflow models with multi-GPU processing using NVIDIA A100 GPUs.",
+            "description":"Led internal efforts to establish best practices for code, <b>MLOps</b> workflows, and <b>distributed processing</b>. Deployed <b>AWS</b> and <b>Kubernetes</b> applications with persistent and serverless architectures. Developed <b>distributed processing pipelines</b> with <b>Dask</b> on <b>NVIDIA DGX</b> cluster. Developed <b>PyTorch</b> and <b>TensorFlow</b> models with multi-GPU processing using <b>NVIDIA A100 GPUs</b>.",
             "logo":"sfl-logo.png"},
             {"position":"Python Developer and Data Scientist",
             "company":"Pratt and Whitney",
             "dates":"Jan 2020 - May 2022",
             "address":"East Hartford, CT 06118",
-            "description":"Designed ML tools and architecture on Hadoop ecosystem and AWS cloud to support python applications for big data analysis on distributed systems. Designed and developed in-house python application for distributed data analysis, data management, and analysis visualization.",
+            "description":"Designed <b>ML</b> tools and architecture on <b>Hadoop</b> ecosystem and <b>AWS</b> cloud to support <b>python</b> applications for <b>big data analysis</b> on <b>distributed systems</b>. Designed and developed in-house <b>python</b> application for <b>distributed data analysis</b>, <b>data management</b>, and <b>analysis visualization</b>.",
             "logo":"pratt-logo.png"},
             {"position":"Structures Engineer",
             "company":"Pratt and Whitney",
