@@ -102,7 +102,7 @@
             "company":"SFL Scientific, A Deloitte Business",
             "dates":"Jan 2022 - Present",
             "address":"Boston, MA 02169",
-            "description":"Led client projects and proof of concept (POC) engagements.  Developed, and deployed custom variational autoencoders (VAEs) to generate novel nuclear fuel loading patterns for nuclear power plant burn cycles. Developed applications with open source and proprietary large language models (LLMs) with chain-of-thought (CoT) and reason-act (ReAct) agents with access to various toolkits. Experience with other generative architectures: GANs, energy based, diffusion, and normalizing flow models.",
+            "description":"Led **production**, minimal viable products (**MVP**),  and proof of concept (**POC**) **GenAI** and **CV** client projects. Solved client data access and explainability challenges with retrieval augmented generation (RAG) and LLM Agent based applications. Developed domain specialized GenAI tools for cancer and diagnosis research, medical devices, biotech, and pharma healthcare sectors. Solved complex physics based problems across the industrial sectors with GenAI and CV tools. For example, developed and deployed custom variational autoencoders (VAEs) to generate novel nuclear fuel loading patterns for nuclear power plant burn cycles. Experience with GANs, energy based, diffusion, and normalizing flow generative architectures.",
             "logo":"sfl-logo.png"},
             {"position":"Lead Data Scientist: Natural Language Processing (NLP)",
             "company":"SFL Scientific, A Deloitte Business",
